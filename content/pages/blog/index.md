@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: urban design
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
